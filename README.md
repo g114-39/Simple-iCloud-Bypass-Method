@@ -1,16 +1,6 @@
 # Simple-iCloud-Bypass-Method
 Simple iCloud Bypass method utilizing the rootful palera1n jailbreak, patched mobileactivationd, and applera1n's modified SSH Ramdisk
-
-
-The patched applera1n.github.io links for download in ```bypass.sh``` are dead.
-Most of the links are dead. 
-
-A little modification to the code and I got ``gaster`` downloaded and the ramdisk working, but in ``bypass.sh``, the ```applera1n.github.io``` links to the patches, plists, jailbreak files, and the modified ```mobileactivationd``` are gone.
-
-Does anyone have a backup of these patched files like the ```mobileactivationd``` and the other files?
-Or does anyone know from where I can get this bypass files from?
-
------------------
+____________________________
 
 This is how I bypassed iCloud lock on my 32GB iPhone 7 on iOS 15.8.8 with a broken home button.
 
